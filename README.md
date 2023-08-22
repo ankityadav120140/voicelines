@@ -20,6 +20,7 @@ Sharing Your Information
 
 We do not sell or share your personal information with third parties for their direct marketing purposes. We may share your information with service providers who help us operate and improve the App, and with legal authorities when required by law or to protect our rights.
 
+
 Your Choices
 
 You have the right to access, update, and delete your personal information. You can do this by contacting us at ankityadav120140@gmail.com. You can also opt-out of receiving promotional emails by following the instructions in those emails.
