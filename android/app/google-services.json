@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "69543142968",
+    "project_id": "voicelines-dc75e",
+    "storage_bucket": "voicelines-dc75e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69543142968:android:deddd0bfdf7008683de8cd",
+        "android_client_info": {
+          "package_name": "com.ankit.voicelines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69543142968-565spcft7rqc2ovsf3j9o7t66kdg8nri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ankit.voicelines",
+            "certificate_hash": "e9edfa2bf72ad44a4edb304cbc90b33bd7d63dec"
+          }
+        },
+        {
+          "client_id": "69543142968-vg6kooosn8e4r3pj87f3883ghnijvkta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcC_60ehXCMCkcbyQBIgwxH2jp6LLWJBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69543142968-vg6kooosn8e4r3pj87f3883ghnijvkta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
